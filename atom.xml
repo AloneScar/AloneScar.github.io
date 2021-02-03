@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alonescar.github.io/</id>
+    <id>https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com</id>
     <title>不思进取</title>
-    <updated>2021-02-03T03:05:26.812Z</updated>
+    <updated>2021-02-03T03:33:08.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alonescar.github.io/"/>
-    <link rel="self" href="https://alonescar.github.io/atom.xml"/>
+    <link rel="alternate" href="https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com"/>
+    <link rel="self" href="https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com/atom.xml"/>
     <subtitle>做那个挑战风车的傻子，鲁莽，也比怯懦更接近勇敢</subtitle>
-    <logo>https://alonescar.github.io/images/avatar.png</logo>
-    <icon>https://alonescar.github.io/favicon.ico</icon>
+    <logo>https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com/images/avatar.png</logo>
+    <icon>https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 不思进取</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://alonescar.github.io/post/hello-gridea/</id>
-        <link href="https://alonescar.github.io/post/hello-gridea/">
+        <id>https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/</id>
+        <link href="https://coding-pages-bucket-3465428-8316499-12278-489818-1258573482.cos-website.ap-hongkong.myqcloud.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
